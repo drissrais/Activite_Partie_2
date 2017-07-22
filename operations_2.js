@@ -1,7 +1,11 @@
 	function multiplication(a,b){
-		return(a*b)
+		var c
+		c = a*b
+		return(c)
 	}
 
 	function division(a,b){
-		return(a/b)
+		var c
+		c = a/b
+		return(c)
 	}

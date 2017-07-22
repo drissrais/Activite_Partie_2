@@ -1,7 +1,11 @@
 	function addition(a, b){
-		return(a + b)
+		var c
+		c = a + b
+		return(c)
 	}
 
 	function soustraction(a, b){
-		return(a - b)
+		var c
+		c = a - b
+		return(c)
 	}
